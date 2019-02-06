@@ -8,5 +8,3 @@ Please do check
 * [Infosec-Oulu](https://infosec-oulu.fi/)
 * [OUSPG](https://github.com/ouspg/)
 * [Oulusec twitter](https://twitter.com/oulusec)
-
-email root oulusec.fi or just ping Mutjake
