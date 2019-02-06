@@ -7,7 +7,6 @@ Please do check
 * [Tarlab HackAfterDark](http://tarlab.fi/HackAfterDark/)
 * [Infosec-Oulu](https://infosec-oulu.fi/)
 * [OUSPG](https://github.com/ouspg/)
-
 * [Oulusec twitter](https://twitter.com/oulusec)
 
--Mutjake
+email root oulusec.fi or just ping Mutjake
