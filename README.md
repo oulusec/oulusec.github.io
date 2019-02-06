@@ -8,4 +8,6 @@ Please do check
 * (Infosec-Oulu)[https://infosec-oulu.fi/]
 * (OUSPG)[https://github.com/ouspg/]
 
+* (Oulusec twitter)[https://twitter.com/oulusec]
+
 -Mutjake
