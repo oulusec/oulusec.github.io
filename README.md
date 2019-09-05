@@ -1,15 +1,35 @@
 ## Oulusec
 
-Next meetup dates:
+The Oulu instance of [Citysec](https://citysec.fi/).
+
+Next meetup dates for 2019:
+
 * Tue 1.10. (Hack after dark afterski)
 * Tue 5.11.
 * Tue 3.12.
 
-Check this space and/or twitter for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
+Check this space and/or [twitter](https://twitter.com/oulusec) for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
 
-### Please also see
+### Come chat with us
+
+Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec channel 👌
+
+### Titteri
+
+[https://twitter.com/oulusec](https://twitter.com/oulusec)
+
+### Web link list, cyber like it's the 90s!
 
 * [Tarlab HackAfterDark](http://tarlab.fi/HackAfterDark/)
 * [Infosec-Oulu](https://infosec-oulu.fi/)
 * [OUSPG](https://github.com/ouspg/)
 * [Oulusec twitter](https://twitter.com/oulusec)
+* [Disobey](https://disobey.fi/)
+* [CitySec chat](https://citysec.disobey.fi/login)
+
+### CitySec siblings <3
+
+* [HelSec](https://helsec.fi/)
+* [TurkuSec](http://turkusec.fi/)
+* [JySec](https://jysec.fi/)
+* [TreSec](https://www.meetup.com/TreSec/)
