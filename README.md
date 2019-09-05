@@ -4,7 +4,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 Next meetup dates for 2019:
 
-* Tue 1.10. (Hack after dark afterski)
+* Tue 1.10. ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski)
 * Tue 5.11.
 * Tue 3.12.
 
