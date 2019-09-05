@@ -33,3 +33,4 @@ Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec ch
 * [TurkuSec](http://turkusec.fi/)
 * [JySec](https://jysec.fi/)
 * [TreSec](https://www.meetup.com/TreSec/)
+* [TallinnSec](https://www.tallinnsec.ee/)
