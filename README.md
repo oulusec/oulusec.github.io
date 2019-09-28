@@ -5,7 +5,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 Next meetup dates for 2019:
 
 * Tue 1.10. ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski)
-* Tue 5.11. (Maybe attekett DIY lockpicks __b)
+* Tue 5.11. (Maybe attekett DIY lockpicks _b)
 * Tue 3.12.
 
 Check this space and/or [twitter](https://twitter.com/oulusec) for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
