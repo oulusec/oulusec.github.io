@@ -18,7 +18,7 @@ Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec ch
 
 [https://twitter.com/oulusec](https://twitter.com/oulusec)
 
-### Web link list, cyber like it's the 90s!
+### Web link list, [cyber](https://kyber.fi/) like it's the 90s!
 
 * [Tarlab HackAfterDark](http://tarlab.fi/HackAfterDark/)
 * [Infosec-Oulu](https://infosec-oulu.fi/)
