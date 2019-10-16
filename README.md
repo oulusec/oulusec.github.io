@@ -9,7 +9,7 @@ Meetup dates for 2019:
   * Lockpicking + Chromium-fuzzing by Atte Kettunen
   * AWS/Cloud security stuff by Juho Myllylahti
   * Wordsnack reversing by Jaakko Rajakallio
-  * Sign up via the following link (seating limited): https://www.lyyti.fi/reg/Oulusec_meetup_8028
+  * Sign up [here](https://www.lyyti.fi/reg/Oulusec_meetup_8028), limited seating
 * Tue 3.12. 17:00
   * Your venue/talk here? Contact us via Twitter and/or CitySec chat!
   * Otherwise: Rooster it is :-)
