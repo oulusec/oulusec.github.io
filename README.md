@@ -4,7 +4,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 Meetup dates for 2019:
 
-~~ * Tue 1.10. ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski)~~
+~~Tue 1.10. ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski)~~
 * Tue 5.11. Meetup hosted by Solita, preliminary agenda (subject to change):
   * Lockpicking + Chromium-fuzzing by Atte Kettunen
   * AWS/Cloud security stuff by Juho Myllylahti
