@@ -20,6 +20,8 @@ Check this space and/or [twitter](https://twitter.com/oulusec) for updates on ve
 
 Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec channel 👌
 
+There's also #oulusec @ freenode if you're so irclined (sic).
+
 ### Titteri (sic)
 
 [https://twitter.com/oulusec](https://twitter.com/oulusec)
