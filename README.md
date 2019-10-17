@@ -42,3 +42,4 @@ There's also #oulusec @ freenode if you're so irclined (sic).
 * [JySec](https://jysec.fi/)
 * [TreSec](https://www.meetup.com/TreSec/)
 * [TallinnSec](https://www.tallinnsec.ee/)
+* [Häjysec](https://twitter.com/hajysec)
