@@ -6,13 +6,13 @@ Meetup dates for 2019:
 
 ~~Tue 1.10. ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski)~~
 ~~Tue 5.11. 17:00 Meetup hosted by Solita:~~
-  * DIY Lockpicking by Atte Kettunen
-  * AWS/Cloud security stuff by Juho Myllylahti
-  * Wordsnack reversing by Jaakko Rajakallio
-  * Thanks to everyone who attended!
-* Tue 3.12. 17:00
-  * Your venue/talk here? Contact us via Twitter and/or CitySec chat!
-  * Otherwise: Rooster it is :-)
+* DIY Lockpicking by Atte Kettunen
+* AWS/Cloud security stuff by Juho Myllylahti
+* Wordsnack reversing by Jaakko Rajakallio
+* Thanks to everyone who attended!
+Tue 3.12. 17:00
+  Your venue/talk here? Contact us via Twitter and/or CitySec chat!
+  Otherwise: Rooster it is :-)
 
 Check this space and/or [twitter](https://twitter.com/oulusec) for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
 
