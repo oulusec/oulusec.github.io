@@ -5,7 +5,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 ### Upcoming meetups:
 
 **Tue 3.12.2019 17:00**
-  * Your venue/talk here? Contact us via Twitter and/or CitySec chat!
+  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
   * Otherwise: Rooster it is :-)
 
 *The following dates are preliminary and subject to change*
