@@ -10,6 +10,7 @@ Meetup dates for 2019:
 * AWS/Cloud security stuff by Juho Myllylahti
 * Wordsnack reversing by Jaakko Rajakallio
 * Thanks to everyone who attended!
+
 Tue 3.12. 17:00
   Your venue/talk here? Contact us via Twitter and/or CitySec chat!
   Otherwise: Rooster it is :-)
