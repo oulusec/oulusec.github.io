@@ -4,13 +4,11 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Upcoming meetups:
 
-**Tue 3.12.2019 17:00**
-  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
-  * Otherwise: Rooster it is :-)
-
 *The following dates are preliminary and subject to change*
 
 **Wed 15.1.2020 17:00**
+  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
+  * Otherwise: Rooster it is :-)
 
 **Wed 12.2.2020 17:00**
 
@@ -26,7 +24,7 @@ Check this space and/or [twitter](https://twitter.com/oulusec) for updates on ve
 
 ### Past meetups
 
-** Wed 4.9.2019 @ Pub Rooster
+** Wed 4.9.2019 @ Pub Rooster**
 
 **Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
 
@@ -35,6 +33,8 @@ Check this space and/or [twitter](https://twitter.com/oulusec) for updates on ve
   * AWS/Cloud security stuff by Juho Myllylahti
   * Wordsnack reversing by Jaakko Rajakallio
   * Thanks to everyone who attended!
+  
+**Tue 3.12.2019 17:00**
 
 ### Come chat with us
 
