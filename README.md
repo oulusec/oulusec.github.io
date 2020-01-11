@@ -29,7 +29,7 @@ Check this space and/or [twitter](https://twitter.com/oulusec) for updates on ve
 **Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
 
 **Tue 5.11.2019 17:00 Meetup hosted by Solita:**
-  * DIY Lockpicking by Atte Kettunen
+  * DIY Lock picks by Atte Kettunen
   * AWS/Cloud security stuff by Juho Myllylahti
   * Wordsnack reversing by Jaakko Rajakallio
   * Thanks to everyone who attended!
