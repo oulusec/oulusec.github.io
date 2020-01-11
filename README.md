@@ -49,7 +49,6 @@ There's also #oulusec @ freenode if you're so irclined (sic).
 ### Web link list, [cyber](https://kyber.fi/) like it's the 90s!
 
 * [Tarlab HackAfterDark](http://tarlab.fi/HackAfterDark/)
-* [Infosec-Oulu](https://infosec-oulu.fi/)
 * [OUSPG](https://github.com/ouspg/)
 * [Oulusec twitter](https://twitter.com/oulusec)
 * [Disobey](https://disobey.fi/)
