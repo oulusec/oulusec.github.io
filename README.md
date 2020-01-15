@@ -7,10 +7,12 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 *The following dates are preliminary and subject to change*
 
 **Wed 15.1.2020 17:00**
-  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
-  * Otherwise: Rooster it is :-)
+  * Meetup at Pub Rooster, see you downstairs!
+  * No official agenda, but let's discuss upcoming Disobey and other fun stuff :-)
 
 **Wed 12.2.2020 17:00**
+  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
+  * Otherwise: Rooster it is :-)
 
 **Wed 11.3.2020 17:00**
 
