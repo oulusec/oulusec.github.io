@@ -5,10 +5,12 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 ### Upcoming meetups:
 
 **Wed 12.2.2020 17:00**
+  * Disobey'20 preparty @ Rooster
 
 *The following dates are preliminary and subject to change*
 
 **Wed 18.3.2020 17:00**
+  * We have some plans, stay tuned!
 
 **Wed 8.4.2020 17:00**
   * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
