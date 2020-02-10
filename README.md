@@ -4,19 +4,15 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Upcoming meetups:
 
-**Wed 15.1.2020 17:00**
-  * Meetup at Pub Rooster, see you downstairs!
-  * No official agenda, but let's discuss upcoming Disobey and other fun stuff :-)
+**Wed 12.2.2020 17:00**
 
 *The following dates are preliminary and subject to change*
 
-**Wed 12.2.2020 17:00**
-  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
-  * Otherwise: Rooster it is :-)
-
-**Wed 11.3.2020 17:00**
+**Wed 18.3.2020 17:00**
 
 **Wed 8.4.2020 17:00**
+  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
+  * Otherwise: Rooster it is :-)
 
 **Wed 6.5.2020 17:00**
 
@@ -26,7 +22,12 @@ Check this space and/or [twitter](https://twitter.com/oulusec) for updates on ve
 
 ### Past meetups
 
-** Wed 4.9.2019 @ Pub Rooster**
+**Wed 15.1.2020 17:00**
+  * Meetup at Pub Rooster, see you downstairs!
+  * No official agenda, but let's discuss upcoming Disobey and other fun stuff :-)
+
+
+**Wed 4.9.2019 @ Pub Rooster**
 
 **Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
 
