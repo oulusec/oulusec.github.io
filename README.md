@@ -4,8 +4,11 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Upcoming meetups:
 
-**Wed 18.3.2020 17:00**
-  * We have some plans, stay tuned (...and prepare for a trip to Linnanmaa)
+**Wed 18.3.2020 17:00, hosted by Synopsys**
+  * Sign up and more details [here](https://gath.io/gJag1bAy)
+  * Pasi Korhonen: ”Too much of a bad thing: overflow of %s”
+  * Jaakko Rajakallio: "GDPR primer"
+  * Ossi Herrala: "Known Rust vulnerabilities and how the community deals with it"
   
 *The following dates are preliminary and subject to change*
 
