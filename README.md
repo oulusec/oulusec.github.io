@@ -14,12 +14,15 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 *The following dates are preliminary and subject to change*
 
 **Wed 8.4.2020 17:00**
-  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
-  * Otherwise: Rooster it is :-)
+  * Too early to discuss plans for this, we'll see.
+  
 
 **Wed 6.5.2020 17:00**
+  * Ditto
 
 **Wed 8.6.2020 17:00**
+  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
+  * Otherwise: Rooster it is :-)
 
 Check this space and/or [twitter](https://twitter.com/oulusec) for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
 
