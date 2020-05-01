@@ -2,7 +2,9 @@
 
 The Oulu instance of [Citysec](https://citysec.fi/).
 
-### Upcoming meetups:
+### Meetups:
+
+None. Yep, we're on COVID-19 break :-/
 
 **~~Wed 18.3.2020 17:00 hosted by Synopsys:~~**
   * CANCELED due to covid :-(
@@ -10,21 +12,6 @@ The Oulu instance of [Citysec](https://citysec.fi/).
   * ~~Pasi Korhonen: ”Too much of a bad thing: overflow of %s”~~
   * ~~Jaakko Rajakallio: "GDPR primer"~~
   * ~~Ossi Herrala: "Known Rust vulnerabilities and how the community deals with it"~~
-  
-*The following dates are preliminary and subject to change*
-
-**Wed 8.4.2020 17:00**
-  * Too early to discuss plans for this, we'll see.
-  
-
-**Wed 6.5.2020 17:00**
-  * Ditto
-
-**Wed 8.6.2020 17:00**
-  * Your venue/talk here? Contact us via [Twitter]((https://twitter.com/oulusec)) and/or [CitySec chat](https://citysec.disobey.fi/login)!
-  * Otherwise: Rooster it is :-)
-
-Check this space and/or [twitter](https://twitter.com/oulusec) for updates on venue or schedule. If none provided, head to Pub Rooster (downstairs) around 17:00.
 
 ### Past meetups
 
