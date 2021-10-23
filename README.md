@@ -38,7 +38,7 @@ None. Yep, we're on COVID-19 break :-/
 
 Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec channel 👌
 
-There's also #oulusec @ freenode if you're so irclined (sic).
+There's also #oulusec @ libera.chat IRC if you're so irclined (sic).
 
 ### Titteri (sic)
 
