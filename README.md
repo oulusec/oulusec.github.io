@@ -4,7 +4,9 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups:
 
-None. Yep, we're on COVID-19 break :-/
+**Wed 1.2.2023 17:00 @ Pub Rooster**
+  * See you downstairs!
+  * No official agenda, but as in 2020, let's discuss upcoming Disobey and what other fun stuff!
 
 **~~Wed 18.3.2020 17:00 hosted by Synopsys:~~**
   * CANCELED due to covid :-(
