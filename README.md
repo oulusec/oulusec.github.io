@@ -62,7 +62,7 @@ There's also #oulusec @ IRCnet if you're so irclined (sic).
 * [TurkuSec](http://turkusec.fi/)
 * [JySec](https://jysec.fi/)
 * [TammerSec](https://tammersec.fi/)
-* * [TreSec](https://www.meetup.com/TreSec/)
+  * [TreSec](https://www.meetup.com/TreSec/)
 * [TallinnSec](https://www.tallinnsec.ee/)
 * [HäjySec](https://twitter.com/hajysec)
 * [JoeSec](https://joesec-fi.github.io/)
