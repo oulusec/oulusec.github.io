@@ -4,6 +4,10 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups:
 
+** Wed 15.3.2023 (prewarning)
+
+### Past meetups
+
 **Wed 1.2.2023 17:00 @ Pub Rooster**
   * See you downstairs!
   * No official agenda, but as in 2020, let's discuss upcoming Disobey and what other fun stuff!
@@ -14,8 +18,6 @@ The Oulu instance of [Citysec](https://citysec.fi/).
   * ~~Pasi Korhonen: ”Too much of a bad thing: overflow of %s”~~
   * ~~Jaakko Rajakallio: "GDPR primer"~~
   * ~~Ossi Herrala: "Known Rust vulnerabilities and how the community deals with it"~~
-
-### Past meetups
 
 **Wed 4.9.2019 @ Pub Rooster**
 
@@ -40,7 +42,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec channel 👌
 
-There's also #oulusec @ libera.chat IRC if you're so irclined (sic).
+There's also #oulusec @ IRCnet if you're so irclined (sic).
 
 ### Titteri (sic)
 
@@ -59,6 +61,12 @@ There's also #oulusec @ libera.chat IRC if you're so irclined (sic).
 * [HelSec](https://helsec.fi/)
 * [TurkuSec](http://turkusec.fi/)
 * [JySec](https://jysec.fi/)
-* [TreSec](https://www.meetup.com/TreSec/)
+* [TammerSec](https://tammersec.fi/)
+* * [TreSec](https://www.meetup.com/TreSec/)
 * [TallinnSec](https://www.tallinnsec.ee/)
-* [Häjysec](https://twitter.com/hajysec)
+* [HäjySec](https://twitter.com/hajysec)
+* [JoeSec](https://joesec-fi.github.io/)
+* [KuoSec](https://kuosec.fi/)
+* [KymiSec](https://twitter.com/KymiSec)
+* [LahtiSec](https://lahtisec.fi/)
+* [SaimaaSec](https://twitter.com/saimaasec)
