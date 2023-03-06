@@ -2,9 +2,13 @@
 
 The Oulu instance of [Citysec](https://citysec.fi/).
 
-### Meetups:
+### Meetups
 
-** Wed 15.3.2023 (prewarning)
+**Wed 15.3.2023 17:00 Meetup hosted by Remod**
+  * Food: Sponsored by Remod.
+  * Drinks: OPM
+  * "SOC - the past, present and future" by Jyrki Huhta
+  * "Studying for OSCP" by Aino Kivilahti
 
 ### Past meetups
 
