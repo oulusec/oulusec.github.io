@@ -6,7 +6,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 **Wed 15.3.2023 17:00 Meetup hosted by Remod**
   * Food: Sponsored by Remod.
-  * Drinks: OPM
+  * Drinks: OPM (Oma Pullo Mukaan, bring your own bottle)
   * "SOC - the past, present and future" by Jyrki Huhta
   * "Studying for OSCP" by Aino Kivilahti
 
