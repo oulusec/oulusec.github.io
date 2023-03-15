@@ -8,6 +8,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
   * Sign up [here: https://gath.io/9nyB2BGmTVfWCB2Rpwe11](https://gath.io/9nyB2BGmTVfWCB2Rpwe11)
   * Food: Sponsored by Remod.
   * Drinks: OPM (Oma Pullo Mukaan, bring your own bottle)
+  * **Last minute note: having a towel if you want to go to sauna can be a good idea as well!**
   * "SOC - the past, present and future" by Jyrki Huhta
   * "Studying for OSCP" by Aino Kivilahti
 
