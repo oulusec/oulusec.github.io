@@ -4,6 +4,10 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
+Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in random social media.
+
+### Past meetups
+
 **Wed 15.3.2023 17:00 Meetup hosted by Remod**
   * Sign up [here: https://gath.io/9nyB2BGmTVfWCB2Rpwe11](https://gath.io/9nyB2BGmTVfWCB2Rpwe11)
   * Food: Sponsored by Remod.
@@ -11,8 +15,6 @@ The Oulu instance of [Citysec](https://citysec.fi/).
   * **Last minute note: having a towel if you want to go to sauna can be a good idea as well!**
   * "SOC - the past, present and future" by Jyrki Huhta
   * "Studying for OSCP" by Aino Kivilahti
-
-### Past meetups
 
 **Wed 1.2.2023 17:00 @ Pub Rooster**
   * See you downstairs!
