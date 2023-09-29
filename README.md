@@ -4,7 +4,11 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
+**Mon 9.10.2023 18:00 informal meetup at TBD
+  * University or e.g. Teerenpeli, stay tuned :-)
+
 Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in social media of your choice (or @iki.fi).
+
 ### Past meetups
 
 **Wed 15.3.2023 17:00 Meetup hosted by Remod**
@@ -69,7 +73,7 @@ There's also #oulusec @ IRCnet if you're so irclined (sic).
 * [TurkuSec](http://turkusec.fi/)
 * [JySec](https://jysec.fi/)
 * [TammerSec](https://tammersec.fi/)
-  * [TreSec](https://www.meetup.com/TreSec/)
+* [TreSec](https://www.meetup.com/TreSec/)
 * [TallinnSec](https://www.tallinnsec.ee/)
 * [HäjySec](https://twitter.com/hajysec)
 * [JoeSec](https://joesec-fi.github.io/)
