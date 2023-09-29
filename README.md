@@ -4,8 +4,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
-Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in random social media.
-
+Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in social media of your choice (or @iki.fi).
 ### Past meetups
 
 **Wed 15.3.2023 17:00 Meetup hosted by Remod**
