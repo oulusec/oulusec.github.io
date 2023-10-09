@@ -32,24 +32,24 @@ Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in so
   * ~~Jaakko Rajakallio: "GDPR primer"~~
   * ~~Ossi Herrala: "Known Rust vulnerabilities and how the community deals with it"~~
 
-**Wed 4.9.2019 @ Pub Rooster**
+**Wed 12.2.2020 17:00**
+  * Disobey'20 preparty @ Rooster
 
-**Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
+**Wed 15.1.2020 17:00**
+  * Meetup at Pub Rooster, see you downstairs!
+  * No official agenda, but let's discuss upcoming Disobey and other fun stuff :-)
+
+**Tue 3.12.2019 17:00**
 
 **Tue 5.11.2019 17:00 Meetup hosted by Solita:**
   * DIY Lock picks by Atte Kettunen
   * AWS/Cloud security stuff by Juho Myllylahti
   * Wordsnack reversing by Jaakko Rajakallio
   * Thanks to everyone who attended! 
-  
-**Tue 3.12.2019 17:00**
 
-**Wed 15.1.2020 17:00**
-  * Meetup at Pub Rooster, see you downstairs!
-  * No official agenda, but let's discuss upcoming Disobey and other fun stuff :-)
+**Tue 1.10.2019 ([Hack After Dark](http://tarlab.fi/HackAfterDark/) afterski) @ Pub Rooster**
 
-**Wed 12.2.2020 17:00**
-  * Disobey'20 preparty @ Rooster
+**Wed 4.9.2019 @ Pub Rooster**
 
 ### Come chat with us
 
