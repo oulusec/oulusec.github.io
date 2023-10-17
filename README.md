@@ -4,14 +4,16 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
-**[Mon 9.10.2023 18:00](#2023-10-09T1800) informal meetup at Teerenpeli cabinette**
-  * Venue sells food and drinks
-  * No sign-up required
-  * Lightning talks or demos welcome ad hoc :-)
+Next meetup planned late November, TBA.
 
 Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in social media of your choice (or @iki.fi).
 
 ### Past meetups
+
+**[Mon 9.10.2023 18:00](#2023-10-09T1800) informal meetup at Teerenpeli cabinette**
+  * Venue sells food and drinks
+  * No sign-up required
+  * Lightning talks or demos welcome ad hoc :-)
 
 **Wed 15.3.2023 17:00 Meetup hosted by Remod**
   * Sign up [here: https://gath.io/9nyB2BGmTVfWCB2Rpwe11](https://gath.io/9nyB2BGmTVfWCB2Rpwe11)
