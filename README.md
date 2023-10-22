@@ -4,9 +4,7 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
-Next meetup planned late November, TBA.
-
-Ideas? Contact via e.g. Mattermost or ping Mutjake or other usual suspects in social media of your choice (or @iki.fi).
+If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi). We're taking a bit of "me" time after HAD.
 
 ### Past meetups
 
