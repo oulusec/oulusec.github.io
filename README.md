@@ -4,7 +4,13 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
-If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi). We're taking a bit of "me" time after HAD.
+**[Fri 22.3.2024 17:00](#2024-03-22T1700) informal meetup at Oluthuone Leskinen**
+  * Venue sells drinks
+  * No sign-up
+  * Come and say hi, ask in Signal group for pointers if lost
+    - If you're not in the group, privmsg Mutjake :-)
+
+*If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi).*
 
 ### Past meetups
 
