@@ -4,15 +4,15 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Meetups
 
+*If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi).*
+
+### Past meetups
+
 **[Fri 22.3.2024 17:00](#2024-03-22T1700) informal meetup at Oluthuone Leskinen**
   * Venue sells drinks
   * No sign-up
   * Come and say hi, ask in Signal group for pointers if lost
     - If you're not in the group, privmsg Mutjake :-)
-
-*If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi).*
-
-### Past meetups
 
 **[Mon 9.10.2023 18:00](#2023-10-09T1800) informal meetup at Teerenpeli cabinette**
   * Venue sells food and drinks
@@ -63,7 +63,7 @@ Head to [CitySec chat](https://citysec.disobey.fi/login) and join the OuluSec ch
 
 There's also #oulusec @ IRCnet if you're so irclined (sic).
 
-### Titteri (sic)
+### Twitteri (sic)
 
 [https://twitter.com/oulusec](https://twitter.com/oulusec)
 
@@ -74,6 +74,8 @@ There's also #oulusec @ IRCnet if you're so irclined (sic).
 * [Oulusec twitter](https://twitter.com/oulusec)
 * [Disobey](https://disobey.fi/)
 * [CitySec chat](https://citysec.disobey.fi/login)
+
+We also have a signal group, contact e.g. Mutjake for invite.
 
 ### CitySec siblings <3
 
