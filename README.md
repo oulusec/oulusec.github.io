@@ -8,6 +8,12 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 
 ### Past meetups
 
+**[Fri 26.9.2025 17:00](#2025-09-26T1700) informal meetup at Pub Rooster**
+  * See you downstairs!
+  * Venue sells drinks and food
+  * No sign-up required
+  * No official agenda
+
 **[Fri 22.3.2024 17:00](#2024-03-22T1700) informal meetup at Oluthuone Leskinen**
   * Venue sells drinks
   * No sign-up
