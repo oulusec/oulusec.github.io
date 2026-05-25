@@ -7,12 +7,12 @@ The Oulu instance of [Citysec](https://citysec.fi/).
 *If you're interested in organizing one, please holler at Mattermost, Signal or ping mutjake (iki.fi).*
 
 
-### [Fri 25.5.2026 17:00](#event-2026-05-25) informal meetup at Pub Rooster {#event-2026-05-25}
+### [~~Fri~~ Mon 25.5.2026 17:00](#event-2026-05-25) informal meetup at Pub Rooster {#event-2026-05-25}
 
 > **DON'T PANIC**
 
   * [Towel Day](https://en.wikipedia.org/wiki/Towel_Day)
-  * See you downstairs!
+  * See you ~~downstairs~~ upstairs!
   * Venue sells drinks and food
   * No sign-up required
   * No official agenda
